@@ -64,7 +64,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/nuharaomesh/nuharaomesh/output/snake.svg" alt="Snake animation" />
-
-###
