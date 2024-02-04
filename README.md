@@ -1,5 +1,12 @@
 <h1 align="center">Hello 👋, I'm Omesh</h1>
 
+<script src="https://cdn.lordicon.com/lordicon.js"></script>
+<lord-icon
+    src="https://cdn.lordicon.com/stjagiwe.json"
+    trigger="hover"
+    style="width:250px;height:250px">
+</lord-icon>
+
 ###
 
 <h3 align="center">An Undergraduate Software Engineer</h3>
