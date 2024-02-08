@@ -3,13 +3,13 @@
 ###
 
 <h3 align="center">An Undergraduate Software Engineer</h3>
+<div>
 <img align="left" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-
+</div>
 ###
 
-<div>
-  <h3 align="left">Connect with me :</h3>
-</div>
+
+<h3 align="left">Connect with me :</h3>
 
 ###
 
