@@ -4,7 +4,7 @@
 
 <h3 align="center">An Undergraduate Software Engineer</h3>
 
-<img align="center" width="350" src="/assets/programmer.gif" alt="Coding gif style = "margin-left: 100px" />
+<img align="center" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
 ###
 
