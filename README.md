@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Omesh</h1>
 
 
-<h2 align="center">An Undergraduate Software Engineer</h2>
+<h2 align="center">Undergraduate Software Engineer</h2>
 
 
 <div align="center"; style="border-radius: 10px">
