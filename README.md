@@ -1,18 +1,14 @@
 <h1 align="center">Hello 👋, I'm Omesh</h1>
 
+<h2 align="center">Undergrad Software Engineer</h2>
 
-<h2 align="center">Undergraduate Software Engineer</h2>
-
-
-<div align="center"; style="border-radius: 10px">
-  <img width="800" src="/assets/programmer.gif" alt="Coding gif" />
+<div align="center">
+  <img width="800" style="border-radius: 10px;" src="/assets/programmer.gif" alt="Coding gif" />
 </div>
 
 ###
 
-<h2 align="center">Connect with me :</h2>
 
-###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo "/>
@@ -25,13 +21,7 @@
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
 </div>
 
-###
-###
-###
-
-<h3 align="center">Languages:</h3>
-
-###
+<h2 align="center">Connect With Me</h2>
 
 <br clear="both">
 
@@ -55,22 +45,33 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40" alt="hibernate logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   
 </div>
 
-###
-
-<h3 align="center">Tools:</h3>
-
-###
+<h2 align="center">Techs</h2>
 
 <br clear="both">
 
 <div align="center">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo"  />
 </div>
+
+<h2 align="center">Tools</h2>
 
 ###
 
