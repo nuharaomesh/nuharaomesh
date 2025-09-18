@@ -1,6 +1,6 @@
 <h1 align="center">OH! hey there 👋, I'm Omesh</h1>
 
-#### I'm an undergraduate software engineering student inspired by technology, always eager to learn and explore new innovations in the field. Passionate about building scalable applications, diving into emerging technologies, and solving real-world problems through software development.
+#### I'm an Trainee Associate software engineer inspired by technology, always eager to learn and explore new innovations in the field. Passionate about building scalable applications, diving into emerging technologies, and solving real-world problems through software development.
 
 <div align="center" style="width: 100%; height: 100px; background-color: white; padding: 10px display: flex; align-items: center; justify-content: center;">
   <img style="width: 500px border-radius: 10px;" src="/assets/programmer.gif" alt="Coding gif" />
