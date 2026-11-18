@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/assets/banner.jpeg" alt="Welcome Banner" width="100%">
+</p>
+
 <h1 align="center">OH! hey there 👋, I'm Omesh</h1>
 
 #### I'm an Trainee Associate software engineer inspired by technology, always eager to learn and explore new innovations in the field. Passionate about building scalable applications, diving into emerging technologies, and solving real-world problems through software development.
